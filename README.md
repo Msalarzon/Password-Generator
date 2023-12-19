@@ -5,7 +5,7 @@ Application to generate a random password.
 
 Create super-strong passwords easily with this simple and basic Password Generator! This friendly tool lets you choose the kind of password you want by picking lowercase and uppercase letters, numbers, and special characters. Make your online accounts extra safe by designing passwords that are unique and super strong, just the way you like them. Give it a try now and keep your accounts secure! 
 
-**Live Demo:** [Password Generator](https://your-username.github.io/your-repo-name/)
+**Live Demo:** [Password Generator](https://msalarzon.github.io/Password-Generator/)
 
 ![Password Generator Screenshot](assets/05-javascript-challenge-demo.png)
 
